@@ -36,6 +36,6 @@ To get started with HackerInsight, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/HackerInsight.git
+   git clone https://github.com/jagadesvar/HackerInsight.git
    cd HackerInsight
 
